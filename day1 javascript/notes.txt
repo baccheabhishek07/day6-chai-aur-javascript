@@ -1,4 +1,14 @@
  TOPIC { data types and variables}
 
-
+ variable include 
+ 1.var
+ 2.let 
+ 3.string
+ 4.boolean
+ 5.array or object (array is itself object)
  
+ variale are use to declare the values like number or string
+
+ NOTE :1. do not use var to declare any value.
+       2. use let or const as primary variables. 
+       3. const can be declare only once.
