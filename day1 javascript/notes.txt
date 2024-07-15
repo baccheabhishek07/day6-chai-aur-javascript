@@ -5,7 +5,8 @@
  2.let 
  3.string
  4.boolean
- 5.array or object (array is itself object)
+ 5.const
+ 6.array or object (array is itself object)
  
  variale are use to declare the values like number or string
 

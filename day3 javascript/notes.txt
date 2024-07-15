@@ -1,0 +1,39 @@
+CONTROL STRUCTURE {CONDITIONAL STATEMENTS}
+1.if else 
+if (codition){
+    do some work
+}
+else {
+
+} (else dose not have condition )
+
+2.elif (nested if else)
+if (codition){
+    do some work
+}
+else if(condition) {
+
+}
+else{
+
+} (else dose not have condition )
+
+3.switch case
+
+let variable = 
+switch(variable){
+    case 1:
+    consoel.log();
+    break;
+    case 2:
+    consoel.log();
+    break
+    default:
+
+}
+
+
+
+
+
+
