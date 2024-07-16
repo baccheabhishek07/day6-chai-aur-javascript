@@ -1,0 +1,35 @@
+LOOPS IN JAVASCRIPT
+
+1.for LOOP
+  
+                            (stooping 
+                            condition)
+       (initialization)           |              (updatation)
+           |                      |                 |
+  for ( let i=1 ,                i<=5              ,i++          ){
+    console.log("abhishek")
+  }
+    
+
+2.while loop
+
+let = variable; ------declaration
+while (stoping condition){
+  console.log(variable);
+  variable++ ;------------------updatation condition
+}
+
+
+NOTE :-
+stooping condition is basically iteration.
+
+3.do while loop
+let = variavble; --------declaration
+do{
+  console.log(variable);
+  variable++ --------------increment
+}while( iteraration / stooping condition)
+
+
+4.
+    
