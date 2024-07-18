@@ -1,0 +1,27 @@
+ARRAYS IN JAVASCRIPT.
+NOTE:-
+1. arrys allow all type of elements in []
+2. arryas are resizable .
+
+const array=[1,2,3,4,5]
+
+# array methodes
+1.array.push()--- adding a new value at end.----require argument
+2.array.pop()---- remove last value from end.---dose not require argument
+3.array.unshift()---add value at starting of the arry---argument require
+4.array.shift()-----remove value from atarting of the array----arrgument is not require
+5.array.includes()---questions the array thet there is value includes or not
+6.array.indexof()---give index of given element in array
+7.array.join()---it combine the array and change it's type to starting
+8.array.slice()-- slice out some portion of the array
+9.array.splice()----it also splice some portion of an array
+
+NOTE :-
+DIIFFRENCE BETWEEN SLICE AND splice
+ SLICE cut out some portion from an given array but dose not manipulate the given array;
+ where as SPLICE cut out some portion from array due to which there is a manipulation happens in a given arrray.
+
+10.  ... ---sprade operator 
+11. array.from()---convert anything into array.
+
+
