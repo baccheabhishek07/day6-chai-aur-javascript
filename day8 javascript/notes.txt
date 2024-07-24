@@ -1,0 +1,33 @@
+TEMPLATE LITERALS IN JAVASCRIPT
+
+1. let = variable;
+   let =variable2;
+
+   message =`hii my name   is ${vraiable} , &{variable}`;---- use of template LITERALS
+   console.log(message)
+
+   ${}---is use to access the declared values
+
+   2. array destructing
+
+   let array=[1,2,3,4,5,6,7,8,9,0];
+    
+    let [first , second] = array;-------  access numbers using array destructing methode.
+     console.log(first);
+     console.log(second);
+     console.log(third);
+
+3.object destructing
+
+let book = {
+    name1=yayati ;
+    author=me;
+    year=2005;
+
+}
+let {name1 ,author}=book;--- object destructing method
+console.log(name1);
+console.log(author);
+
+
+4.
